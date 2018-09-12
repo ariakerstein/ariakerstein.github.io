@@ -18,12 +18,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Distraqt"
-    url: /distraqt/
+  # - title: "Distraqt"
+  #   url: /distraqt/
   # - title: "Corewheels"
   #   url: /corewheels/
-  - title: "Categories"
-    url: /categories/
+  # - title: "Categories"
+  #   url: /categories/
   # - title: "Resume"
   #   url: /resume/
 
