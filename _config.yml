@@ -96,9 +96,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-75218719-3"
     anonymize_ip         : # true, false (default)
 
 
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Ari Akerstein"
   avatar           : "/assets/images/chemopic.jpg" # path of avatar image, e.g. "/assets/images/chemopic.jpg"
-  bio              : "Battling Cancer"
+  bio              : "Meditations while battling bancer"
   location         : "San Francisco"
   email            : "ariakerstein@gmail.com"
   links:
