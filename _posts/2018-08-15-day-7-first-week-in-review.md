@@ -3,7 +3,7 @@ id: 159
 title: 'Day 7: first week in review'
 date: 2018-08-15T20:31:42+00:00
 author: ariakerstein
-layout: post
+layout: single
 guid: http://www.chemolog.com/?p=159
 permalink: /2018/08/15/day-7-first-week-in-review/
 categories:

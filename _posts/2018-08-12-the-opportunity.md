@@ -3,7 +3,7 @@ id: 137
 title: The opportunity
 date: 2018-08-12T18:48:20+00:00
 author: ariakerstein
-layout: post
+layout: single
 guid: http://www.chemolog.com/?p=137
 permalink: /2018/08/12/the-opportunity/
 medium_post:

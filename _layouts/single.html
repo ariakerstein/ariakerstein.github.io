@@ -15,7 +15,6 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -74,7 +73,7 @@ layout: default
   <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdprLegal">
-        <p>Learn more about MailChimp's privacy practices <a href="https://mailchimp.com/legal/" target="_blank">here</a>.</p>
+<!--         <p>Learn more about MailChimp's privacy practices <a href="https://mailchimp.com/legal/" target="_blank">here</a>.</p> -->
     </div>
 </div>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
