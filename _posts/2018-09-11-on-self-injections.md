@@ -3,6 +3,7 @@ id: 295
 title: On self-injections
 date: 2018-09-11T16:16:10+00:00
 author: ariakerstein
+comments: true
 layout: single
 guid: http://www.chemolog.com/?p=295
 permalink: /2018/09/11/on-self-injections/

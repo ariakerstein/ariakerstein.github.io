@@ -4,6 +4,7 @@ title: The power of decision
 date: 2018-08-18T15:55:41+00:00
 author: ariakerstein
 layout: single
+comments: true
 guid: http://www.chemolog.com/?p=169
 permalink: /2018/08/18/the-power-of-decision/
 medium_post:

@@ -4,6 +4,7 @@ title: Mortality in the mundane
 date: 2018-07-31T19:50:05+00:00
 author: ariakerstein
 layout: single
+comments: true
 guid: http://www.chemolog.com/?p=85
 permalink: /2018/07/31/mortality-in-the-mundane/
 categories:

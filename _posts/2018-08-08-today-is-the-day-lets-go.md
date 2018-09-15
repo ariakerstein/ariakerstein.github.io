@@ -4,6 +4,7 @@ title: 'today is the day &#8211; let&#8217;s go!!'
 date: 2018-08-08T14:55:49+00:00
 author: ariakerstein
 layout: single
+comments: true
 guid: http://www.chemolog.com/?p=114
 permalink: /2018/08/08/today-is-the-day-lets-go/
 categories:
