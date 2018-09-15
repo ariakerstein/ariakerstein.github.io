@@ -9,7 +9,7 @@ permalink: /2018/08/07/chemo-starts-tomorrow/
 categories:
   - chemotherapy
 ---
-So many emotions flowing through me as I prepare mentally for chemo treatment, which starts 8:45 am tomorrow&#8230;
+So many emotions flowing through me as I prepare mentally for chemo treatment, which starts 8:45 am tomorrow&#8230
 
 <!--more-->First off, I consider all the things I won&#8217;t be doing much of for the next 6 months: no shipping products, no long runs, probably not much energy to handle the little ones, likely not a lot of focus for deep study (but I&#8217;ll try), no awesome meals because my taste buds are shot, not much socializing because I&#8217;m immunocompromised, etc.
 
