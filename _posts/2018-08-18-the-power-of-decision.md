@@ -11,6 +11,8 @@ medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
 categories:
   - chemotherapy
+dsq_thread_id:
+  - "6908164368"
 ---
 Yesterday we took a quick excursion to the SF Japanese tea garden to bring in the weekend. About 10 years ago I made a decision to ask Michelle to marry me &#8211; and yes it was the best decision I ever made. I asked her on this bench. Below are 3 pretty darn good subsequent decisions. Put one step in front of the other; good decisions tend to create virtuous upward cycles. Here&#8217;s the proof.
 

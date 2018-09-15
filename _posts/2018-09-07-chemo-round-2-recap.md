@@ -6,6 +6,8 @@ author: ariakerstein
 layout: single
 categories:
   - chemotherapy
+dsq_thread_id:
+  - "6908164335"
 ---
 
 <p class="p1">

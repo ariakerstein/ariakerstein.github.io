@@ -11,6 +11,8 @@ medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
 categories:
   - chemo
+dsq_thread_id:
+  - "6908153782"
 ---
 <p class="p1">
   The past two days have been awful. Much worse than the first round. Last night I didn&#8217;t sleep. I&#8217;ve been having severe headaches for the past few days. At one point I was literally sitting up in bed just punching the mattress in vain attempts to deal with the waves of pain shooting through the top of my head. Apparently this is the result of G-CSF growth factor (more on this below). I have an entirely new appreciation for the daily tribulations those who suffer migraines endure &#8211; thankfully it&#8217;s not an issue I&#8217;ve really had to face until now. It’s debilitating. Last night was a new low point with the following set of issues presenting at various points, often in combination:
