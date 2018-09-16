@@ -4,6 +4,8 @@ title: 'Back from the hospital &#8211; neutrophil counts back up'
 date: 2018-08-29T16:14:29+00:00
 author: ariakerstein
 layout: single
+dsq_thread_id:
+  - "6908164389"
 guid: http://www.chemolog.com/?p=236
 permalink: /2018/08/29/back-from-the-hospital-neutrophil-counts-back-up/
 medium_post:

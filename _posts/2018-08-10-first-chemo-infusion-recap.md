@@ -4,6 +4,8 @@ title: 'First chemo infusion &#8211; recap'
 date: 2018-08-10T20:40:06+00:00
 author: ariakerstein
 layout: single
+dsq_thread_id:
+  - "6908164854"
 guid: http://www.chemolog.com/?p=117
 permalink: /2018/08/10/first-chemo-infusion-recap/
 categories:

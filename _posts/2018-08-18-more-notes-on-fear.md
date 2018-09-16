@@ -4,6 +4,8 @@ title: More notes on fear
 date: 2018-08-18T17:28:00+00:00
 author: ariakerstein
 layout: single
+dsq_thread_id:
+  - "6908164366"
 guid: http://www.chemolog.com/?p=173
 permalink: /2018/08/18/more-notes-on-fear/
 medium_post:

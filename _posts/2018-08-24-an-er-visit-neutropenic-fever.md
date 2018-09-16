@@ -4,6 +4,8 @@ title: 'An ER visit &#8211; neutropenic fever'
 date: 2018-08-24T21:10:45+00:00
 author: ariakerstein
 layout: single
+dsq_thread_id:
+  - "6908164406"
 guid: http://www.chemolog.com/?p=187
 permalink: /2018/08/24/an-er-visit-neutropenic-fever/
 medium_post:
