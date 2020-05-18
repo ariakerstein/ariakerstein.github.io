@@ -18,6 +18,8 @@
 main:
   - title: "About"
     url: /about/
+  # - title: "Bookshelf"
+  #   url: /bookshelf/
   # - title: "Distraqt"
   #   url: /distraqt/
   # - title: "Corewheels"
@@ -40,16 +42,11 @@ projects:
       - title: "research"
         url: /docs/resaerch/
 
-
-  # - title: "Posts"
-  #   url: /year-archive/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
-  # - title: "Pages"
-  #   url: /page-archive/
-  # - title: "Collections"
-  #   url: /collection-archive/
-  # - title: "External Link"
-  #   url: https://google.com
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
