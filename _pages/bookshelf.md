@@ -3,7 +3,7 @@ id: 3317
 title: Bookshelf
 date: 2020-03-13T17:24:27+00:00
 author: ariakerstein
-type: p
+type: pages
 permalink: /bookshelf/
 path: /_pages/bookshelf
 layout: single
