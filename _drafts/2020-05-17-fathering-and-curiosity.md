@@ -1,6 +1,6 @@
 ---
 title:  'fathering and curiosity' 
-date: 2020-05-17
+# date: 2020-05-17
 author: ariakerstein
 layout: single
 categories:
