@@ -1,7 +1,7 @@
 ---
 id: 3129
 title: The 2 parts of productivity
-date: 2017-08-18T16:24:52+00:00
+# date: 2017-08-18T16:24:52+00:00
 author: arisamuel
 layout: single
 guid: http://www.samuelakerstein.com/?p=3129

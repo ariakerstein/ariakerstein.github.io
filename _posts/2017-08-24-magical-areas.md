@@ -2,7 +2,7 @@
 id: 3151
 title: Magical areas
 date: 2017-08-24T06:43:00+00:00
-author: arisamuel
+author: ariakerstein
 layout: single
 guid: http://www.samuelakerstein.com/?p=3151
 permalink: /magical-areas/

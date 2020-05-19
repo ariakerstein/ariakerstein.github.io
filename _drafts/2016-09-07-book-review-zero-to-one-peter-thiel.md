@@ -1,7 +1,7 @@
 ---
 id: 2686
 title: 'Book Review: Zero to One (Peter Thiel)'
-date: 2016-09-07T05:56:57+00:00
+# date: 2016-09-07T05:56:57+00:00
 author: arisamuel
 excerpt: Notes on Zero to One, Peter Thiel
 layout: single

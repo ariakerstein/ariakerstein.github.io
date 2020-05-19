@@ -1,7 +1,7 @@
 ---
 id: 1677
 title: First run with Saul
-date: 2012-08-06T04:37:26+00:00
+# date: 2012-08-06T04:37:26+00:00
 author: arisamuel
 layout: single
 guid: http://www.directedattention.com/?p=1677

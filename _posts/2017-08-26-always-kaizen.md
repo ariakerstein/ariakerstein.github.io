@@ -1,7 +1,7 @@
 ---
 id: 3048
 title: Always Kaizen
-date: 2017-08-26T02:46:07+00:00
+# date: 2017-08-26T02:46:07+00:00
 author: arisamuel
 layout: single
 guid: http://www.samuelakerstein.com/?p=3048

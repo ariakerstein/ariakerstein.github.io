@@ -16,7 +16,6 @@ original_post_id:
   - "999"
 categories:
   - Product Ideas
-  - Product Management
 ---
 Thought:
 
