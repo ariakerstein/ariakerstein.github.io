@@ -1,6 +1,6 @@
 # url: http://www.samuelakerstein.com
-name: 'Fiction'
-description: Ari Akerstein | Fiction
+name: 'Collective Fictions'
+description: Ari Akerstein | Writings
 
 # Welcome to Jekyll!
 #
@@ -20,9 +20,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fiction"
+title                    : "Collective Fictions"
 title_separator          : "-"
-name                     : "Fiction"
+name                     : "Collective Fictions"
 description              : "Ari Akerstein | Fiction"
 # url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Ari Akerstein"
   avatar           : "/assets/images/ari_headshot.jpg" # path of avatar image, e.g. "/assets/images/chemopic.jpg"
-  bio              : "Writings"
+  bio              : "Product | Prose"
   location         : "San Francisco"
   email            : "ariakerstein@gmail.com"
   links:
