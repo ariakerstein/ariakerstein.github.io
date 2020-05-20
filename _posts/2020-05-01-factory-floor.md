@@ -4,8 +4,7 @@ date: 2020-05-01
 author: ariakerstein
 layout: single
 permalink: /the-factory-floor/
-categories:
-  - [Fiction, Youth, Tensions]
+categories: [Fiction, Youth, Tensions]
 ---
 
 [Theme: finding one's place in the world]
