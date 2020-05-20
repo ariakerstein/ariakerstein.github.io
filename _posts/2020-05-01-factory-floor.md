@@ -70,8 +70,7 @@ You might think these are all factory workers, all the same kind of person. That
 
 For example, a machining room would value precision and process. A paint assembly line room would value efficiency of motion to reduce latency and optimize throughput. Then there were the immersion baths that sat on large areas of palates arranged in circular patterns. These areas were controlled mostly by large muscular black men. They would lift large racks of metal and dunk them, assisted by some crane-like machines, into baths filled with colored solutions. There it seemed raw strength was most important. I recall walking through these areas with my father and nearly passed out smelling the solvents. I couldn’t imagine what spending a day so close to such toxic stuff could do to a person.
 
-I looked down at the palettes as I walked. I noticed drips sink into the unfinished wood. One of the stories about my grandfather was that he once went to a competitors foreclosure. This is a tough business and few companies survive. They were auctioning the machines and equipment. He said he only wanted the palettes. Suit yourself, they said. He made a mini fortune distilling out the gold drippings trapped in the wood. 
-Value from the brain, not the eye. 
+I looked down at the palettes as I walked. I noticed drips sink into the unfinished wood. One of the stories about my grandfather was that he once went to a competitors foreclosure. This is a tough business and few companies survive. They were auctioning the machines and equipment. He passed over all the heavy stuff, he only wanted the palettes. Suit yourself, they handed it over, one less thing to clear out they figured. He made a mini fortune distilling out the gold drippings trapped in the wood. Lesson: brains beat brawn. 
 
 Today, welding. We walk down a familiar corridor but turn a corner toward an alley I hadn’t seen before. Staccato blue electricity rips the air, illuminating the otherwise dark room. I cover my ears as we approach. We enter the shop. I notice a man covering his face with a black mask. I look down to avoid, what, blindness? 
 The lightning stops. I unseal my palms from my ears. Good, still silent. I look up. The man slides the mask above his head and inspects his work by eye. A pause. he looks over, then.
@@ -92,4 +91,4 @@ We move....
 
 
 The cursor blinks on the terminal. 
-A knock. In a loud voice, "Come in", I say. It's Jean, my assistant. Sir, your 2:00 is here".
+A knock. "Yes, come in", I say. It's Jean, my assistant. "Ari, your 2:00 is here".
