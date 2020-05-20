@@ -1,6 +1,6 @@
 # url: http://www.samuelakerstein.com
-name: 'Product & Prose'
-description: The blog of Ari Akerstein
+name: 'Fiction'
+description: Ari Akerstein | Fiction
 
 # Welcome to Jekyll!
 #
@@ -20,10 +20,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Product and Prose"
+title                    : "Fiction"
 title_separator          : "-"
-name                     : "Product and Prose"
-description              : "The Blog of Ari Akerstein"
+name                     : "Fiction"
+description              : "Ari Akerstein | Fiction"
 # url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -31,11 +31,11 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 # words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
-  disqus:
-    shortname            : "product-prose" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  # provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  # disqus:
+  #   shortname            : "product-prose" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  # discourse:
+  #   server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Ari Akerstein"
   avatar           : "/assets/images/ari_headshot.jpg" # path of avatar image, e.g. "/assets/images/chemopic.jpg"
-  bio              : "Product Meditations"
+  bio              : "Writings"
   location         : "San Francisco"
   email            : "ariakerstein@gmail.com"
   links:
