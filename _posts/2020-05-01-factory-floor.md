@@ -10,8 +10,8 @@ categories:
 
 [Theme: finding one's place in the world]
 
-The cursor pulses hot green against the black terminal. A few quick taps execute the script and the simulation unfolds on the screen. A stocatto barrage of keystrokes: Reaction-diffusion simulation number 39. Same result as 38. Here we notice a diffusion coefficient in agreement with the literature.....
-I lean back in the creaky lab chair, interlace my fingers behind my head and stare at the ceiling. 
+The cursor pulses hot green against the black terminal. A few quick taps execute the script and the simulation unfolds on the screen. I heave a deep breath followed by a stocatto barrage of keystrokes: Reaction-diffusion simulation number 39. Same result as 38. Here we notice a diffusion coefficient in agreement with the literature - .
+I stop and lean back in the creaky lab chair, interlace my fingers behind my head and stare at the ceiling..... 
 
 We travel by Buick leaving suburban safety behind. The car pulled into the reserved spot, “For management only”, it read. My father and I step out and walk toward the building. I’m 12 years old and going to work.
 
@@ -19,7 +19,7 @@ It takes 40 seconds to walk from car seat to factory entrance. In that time my b
 
 I’m the only kid here. That’s the most obvious difference. I’m also not here because I need to support my family. To say I want to be here is a stretch, but it's my choice. This was the best solution available to the question, “What will you do with your summer?”. I was acting partially in response to my loathing of suburban comfort. And I didn’t fit in anywhere obvious, so I wasn't missing out on anything obvious either. I resented - in a fuzzy way - what my peer groups were doing with their families (fancy camps, country clubs) and wanted none of it. This was my mild form of protest. No, I come from workers. I want to get my hands dirty. 
 
-I had orbited this place for a long time, as if by gravity. Now I needed to go in and explore it. This is the what my grandfather built. It's one of the largest metallizing and electroplating factories in America. Millions of pieces processed each week. Metallizing/Electroplating? Take a moment and scan your surroundings. I'll bet that if you're indoors you’re within 30 feet of such a piece, think: coat hangers, lighting fixtures, reflectors, toy trophies, handles, thermos caps, cosmetic tubes, furniture knobs, bottle caps, computer logos.
+A strange gravity had orbited me around this place for a long time. Now it's time to go in and explore. This is the place my grandfather built. It's one of the largest metallizing and electroplating factories in America. Millions of pieces processed each week. Metallizing, Electroplating? Take a moment and scan your surroundings. I'll bet that if you're indoors you’re within 15 feet of such a piece, think: coat hangers, lighting fixtures, reflectors, toy trophies, handles, thermos caps, cosmetic tubes, furniture knobs, bottle caps, computer logos. Metallizing is the process of coating the raw parts with a finish that makes them look good and withstand abuse. It requires a mix of chemistry interacting with mechanical handling of parts done at industrial scale. 
 
 On the walk over my identity tied itself into knots: (1) grandson of the revered ‘Nat’, holder of patents, president of the chemical society and iron-fisted leader of this place; (2) son of the lead engineer; (3) sheltered private school nerd coming to see how the other side lives (my personal race condition - in which I thought about what I thought they were thinking about me); (4) Scrawny Jewish kid?; (5) golden boy, quick to learn (6) loser, working for $10/hour instead of enjhoying my summer and making friends (7) ...
 
@@ -38,7 +38,7 @@ Speaking of respect in currency makes sense but it's less countable than money.
 So how do you know who has it? It's not like grabbing a crown, putting it on your head and walking around with it would work. It would not. 
 The rules I considered: a) it's obvious to an outside observer by watching the group dynamics, b) you can get things from your own group with it c) you can get things from other groups with it. 
 
-One time I saw my father dealing with a hard problem on a machine that stumped them. He walked upstairs, me behind him, he had a quick chat behind a wall with someone in whispers - the upstairs was quiet - and went back to work. The next day there was a swarm of men at the site fixing the intractable problem. That was respect in action. 
+One time I saw my father dealing with a hard problem on a machine that stumped them. He walked upstairs, me behind him, he had a quick chat behind a wall with someone in whispers - the upstairs was always quiet, even when things broke - and went back to work. The next day there was a swarm of men at the site fixing the intractable problem. That was respect in action. 
 
 A dark wooden door leads to the narrow stairwell downstairs, the kind you might expect when visiting a friend’s house. The stairs themselves are covered in circular lilly pads extruded from the purple rubber. That helps with grip, I wonder? The doorway leads to 5 or 6 dangling clear heavy plastic panels like you might find at a grocery freezer section to trap the cold air. It was an airlock at the threshold of an expansive world of metal. 
 
