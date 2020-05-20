@@ -13,7 +13,7 @@ categories:
 The cursor pulses hot green against the black terminal. A few quick taps execute the script and the simulation unfolds on the screen. A stocatto barrage of keystrokes: Reaction-diffusion simulation number 39. Same result as 38. Here we notice a diffusion coefficient in agreement with the literature.....
 I lean back in the creaky lab chair, interlace my fingers behind my head and stare at the ceiling. 
 
-We travel by Buick leaving suburban safety behind. The car pulled into the reserved spot, “For management only”, it read. My father and I step out and walk toward the building. I’m 12 years old and going to work.
+We travel by Buick, leaving suburban safety behind. The car pulled into the reserved spot, “For management only”, it read. My father and I step out and walk toward the building. I’m 12 years old and going to work.
 
 It takes 40 seconds to walk from car seat to factory entrance. In that time my brain floods with feelings, ideas and a hell of a lot of confusion. I look up as I walk. The single-story white facade masks the hum of activity happening in the subterranean city-block - tip of an iceberg.  
 
