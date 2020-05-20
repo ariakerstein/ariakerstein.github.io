@@ -88,7 +88,9 @@ We move....
 “Nah”, he cut in, “you got better things coming, kid. You don’t want to be like me, or these guys. Look at us”. He had a point. But I fixated on fitting in and felt like admitting that I wanted to do science would out me as different. Too high-falutent. I’d never be able to bridge the gap. Engineering seemed like a good middle-ground for connection.
 “I mean that I like to build things” I said.
 “That’s good, kid” he said.
-
+ 
 A knock. The cursor blinks on the terminal. I sit back up. 
-"Yes, come in", I say. It's Jean, my assistant. 
-"Ari, your 2:00 is here"....
+"Come in", I shout, not bothering to turn around. It's Jean, my assistant. 
+
+[stub ]
+"double A, your 2:00 is here"....
