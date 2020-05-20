@@ -14,12 +14,13 @@ categories:
 tags:
   - prd
 ---
+
 <!-- wp:heading {"level":1} -->
 <h1>Problem </h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Parents have accumulated many lego sets over years. But the instructions are missing or kids tire of building a set (typically only once). Often times pieces go missing. What to do with all these legos? There are great additional lego sets that can be built with those items if only the right instructions were handy. </p>
+<p>Parents accumulate many lego sets over years. Over time the instructions get lost, pieces scatter, and kids tire of building the sets (which they'll do typically once). What to do with all these legos? Throw them in a giant bin. But there are many lego sets that can be built with those parts - if only the right instructions were handy. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1} -->
@@ -59,7 +60,7 @@ tags:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><strong>Parents  (or older kids)</strong>- Houses typically have many lego sets. Typically these get aggregated into a large bin once the instructions have been built. This is a shame as many more sets could be built but never do. </p>
+<p><strong>Parents (or older kids)</strong>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1} -->
@@ -67,11 +68,11 @@ tags:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Users will upload their legos to the app. This can happen in 2 ways. The simple way is to select sets they have from a visual list. Once entered the app will return instructions for other lego sets that could be built.  </p>
+<p>Users will upload their lego parts to the app. This can happen in 2 ways. The simple way is to select sets they have from a visual list. Once entered the app will return instructions for other lego sets that can be built.  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The more interesting way of building this is leveraging AI libraries. In this flow the user will lay out their legos on the floor. They would then snap pictures from multiple angles to ensure complete identification. Those legos would then map to the pieces required in any set. The list of relevant instructions would be returned. These could either be printed, ordered or viewed online.</p>
+<p>The more interesting way of building this is leveraging AI libraries. In this flow the user will lay out their legos on a surface. They would then snap pictures from multiple angles to ensure complete identification. Those legos would then map to the pieces required in any set. The app returns the list of relevant instructions. These could either be printed, ordered or viewed online.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":1} -->
