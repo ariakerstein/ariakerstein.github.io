@@ -1,5 +1,4 @@
 ---
-id: 3075
 title: Get Psyched!
 date: 2017-07-21T16:36:38+00:00
 author: arisamuel
@@ -10,8 +9,6 @@ medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:2:"no";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:2:"-1";s:6:"status";s:4:"none";s:3:"url";N;}'
 categories:
   - Essays
-  - FItness
-  - life optimizing
 ---
 I've been doing a lot of basic, heavy weight lifting first thing in the morning over the past few months. My quarterly goal is to deadlift 2x my bodyweight. The reason is to test my hypothesis that it'll improve my running. If you think about running it's about stride rate x frequency, or bigger, faster steps. I really like the analogy of running legs comprising a wheel (close your eyes and visualize looking at the shoes of a runner from the side - what pattern does it trace? Take a moment, can you see it?). The bigger the wheel the faster you'll go - all else equal:).
 
@@ -36,3 +33,4 @@ I've found a few helpful tricks for this.
 I've found tracking to be such a pain - notebooks or Evernotes filled with random dates of lifts. Anyway I built a little app to track my metrics as I go here (below). Basically it'll take my weight, weight lifted and reps to back into my single rep maximum (using the <a href="https://en.wikipedia.org/wiki/One-repetition_maximum">Brzycki</a> method). From that it'll calculate my bodyweight multiple and track it over time. I find it satisfying to see how that particular metric moves. It also helps keep it real since I weigh significantly less than folks I lift with at the gym so it acts as a normalizer.  I'll link to it for those interested as soon as I get a chance to deploy it off my local machine. Stay tuned!
 
 <img class="alignnone wp-image-3078 size-full" src="http://www.samuelakerstein.com/wp-content/uploads/2017/07/Screenshot-2017-07-21-08.22.29.png" alt="" width="828" height="488" />
+

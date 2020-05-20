@@ -12,7 +12,7 @@ This might be the most ironic title ever. To meditate is to be mindful, slow and
 
 You might believe that Tic Toc is going to destory our cultural values, 15 seconds at a time. 
 
-Emergent technologies are never accidental. 
+But emergent technologies are never bad. 
 
 
 

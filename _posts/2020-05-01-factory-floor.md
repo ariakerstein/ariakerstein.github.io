@@ -12,9 +12,8 @@ Theme: finding one's place in the world
 Setting: factory 
 Storyline: characters
 
-The cursor pulses hot green against the black terminal. A few quick taps execute the script and the simulation unfolds on the screen. A stocatto barrage of keystrokes: Reaction-diffusion simulation number 39. Same as 38. Here we notice a diffusion coefficient in agreement with the literature.....
 
-We travel by Buick leaving suburban safety behind. The car pulled into the reserved spot, “For management only”, it read. My father and I step out and walk toward the building. I’m 12 years old and going to work.
+We travel by Buick leaving suburban safety behind. The car pulled into the reserved spot, “For management only”, it read. My father and I step out and walk toward the building. I’m 12 years old and I’m going to work.
 
 It takes 40 seconds to walk from car seat to factory entrance. In that time my brain floods with feelings, ideas and a hell of a lot of confusion. I look up as I walk. The single-story white facade masks the hum of activity happening in the subterranean city-block - tip of an iceberg.  
 
@@ -89,8 +88,11 @@ We move....
 “Not sure. I kind of like working with my hands.” I said.
 “Nah”, he cut in, “you got better things coming, kid. You don’t want to be like me, or these guys. Look at us”. He had a point. But I was fixated on fitting in and felt like admitting that I really wanted to do science would out me as different. I’d never be able to bridge the gap. Engineering seemed like a good middle-ground for us to connect on.
 “I mean that I like to build things” I said.
-“That’s good, kid”.....
+“That’s good, kid”....
 
+cont…..
 
 The cursor blinks on the terminal. 
-A knock. In a loud voice, "Come in", I say. It's Jean, my assistant. Sir, your 2:00 is here".
+A knock. Your 2:00 is here. 
+
+You fit in where you get respect. 
