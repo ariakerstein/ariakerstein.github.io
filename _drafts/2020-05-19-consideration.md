@@ -8,7 +8,7 @@ categories:
   - Product Ideas
 ---
 
-This might be the most ironic title for a post ever. To meditate is to be mindful, slow and calm. Tic toc is the opposite. 
+This might be the most ironic title ever. To meditate is to be mindful, slow and calm. Tic toc is the opposite. 
 
 You might believe that Tic Toc is going to destory our cultural values, 15 seconds at a time. 
 
