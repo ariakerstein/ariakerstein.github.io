@@ -8,11 +8,10 @@ categories:
   - Fiction
 ---
 
-Theme: finding one's place in the world
-Setting: factory 
-Storyline: characters
+[Theme: finding one's place in the world]
 
-The cursor pulses hot green against the black terminal. A few quick taps execute the script and the simulation unfolds on the screen. A stocatto barrage of keystrokes: Reaction-diffusion simulation number 39. Same as 38. Here we notice a diffusion coefficient in agreement with the literature.....
+The cursor pulses hot green against the black terminal. A few quick taps execute the script and the simulation unfolds on the screen. A stocatto barrage of keystrokes: Reaction-diffusion simulation number 39. Same result as 38. Here we notice a diffusion coefficient in agreement with the literature.....
+I lean back in the creaky lab chair, interlace my fingers behind my head and stare at the ceiling. 
 
 We travel by Buick leaving suburban safety behind. The car pulled into the reserved spot, “For management only”, it read. My father and I step out and walk toward the building. I’m 12 years old and going to work.
 
