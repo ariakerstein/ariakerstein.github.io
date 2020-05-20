@@ -10,10 +10,9 @@ categories:
 
 [Theme: finding one's place in the world]
 
-The cursor pulses hot green against the black terminal. A few quick taps execute the script and the simulation unfolds on the screen. A stocatto barrage of keystrokes: simulation number 39. Same result as 38. All the matter in the universe...only 10^78 atoms...matter density not enough to hold universe together...
+The cursor pulses hot green against the black terminal. A few quick keyboard taps execute the script. I watch the simulation unfold on the screen. Then, a stocatto barrage of keystrokes: <i>reaction-diffusion simulation number 39...no change from number 38...the molecule diffuses within the nuclear space. The p53 molecule displays kinetics suggesting diffusion as the primary mechanic of nucleus traversal. When in proximity (within x-y micometers) to the repair complex the p53 kinetics shift. Specifically our kinetic curves strongly support reaction dynamics that suggest interaction with other proteins (e.g., rad complex etc.) involved in the double-strand repair complex formation. This results in an annealing process that ultimately results in high fidelity DNA repair.....</i>
 
-I stop and lean back in the creaky lab chair. I interlace my fingers behind my skull, and with a deep sigh consider the ceiling..... 
-
+I stop and lean back in the creaky lab chair. I interlace my fingers behind my skull, sigh deeply and consider the ceiling..... 
 
 We travel by Buick leaving suburban safety behind. The car pulled into the reserved spot, “For management only”, it read. My father and I step out and walk toward the building. I’m 12 years old and going to work.
 
@@ -25,11 +24,11 @@ A strange gravity had orbited me around this place for a long time. Now it's tim
 
 On the walk over my identity tied itself into knots: (1) grandson of the revered ‘Nat’, holder of patents, president of the chemical society and iron-fisted leader of this place; (2) son of the lead engineer; (3) sheltered private school nerd coming to see how the other side lives (my personal race condition - in which I thought about what I thought they were thinking about me); (4) Scrawny Jewish kid?; (5) golden boy, quick to learn (6) loser, working for $10/hour instead of enjhoying my summer and making friends (7) ...
 
-We pass the men standing outside. They focus on coffee, cigarettes and banter. They dress in tough materials: coveralls, jackets, beanie caps, shaggy beards, bed head. I had no idea what they were talking about. It's 5:05am, a cool start to a balmy June day in Rhode Island.
+We pass the men standing outside. They focus on coffee, cigarettes, banter. They dress in tough materials: coveralls, jackets, beanie caps, shaggy beards, bed head. I had no idea what they were talking about. It's 5:05am, a cool start to what I can already tell will be a balmy June day in Rhode Island.
 
-We enter the heavy glass doors with a strong pull. I always go fast so I'm the one to do this, not sure why it matters so much to me but it does - more than it should. The lobby is beige, carpeted, quiet.
+We enter the heavy glass doors with a strong pull. I always go fast so I'm the one pulling, not sure why it matters to me but it does - more than it should. The lobby is beige, carpeted, quiet.
 
-This is a place of unstated divisions. There's a major fault line separating above from below. I'll explain it here but it's so fundamental to the place that it's like water to a fish. Upstairs is for the executives and their secretaries. My family - except for my father. It's the place for paper, computers and invisible magic - you need to apply your mind to understand it. Somehow the activites up here - paper shuffling, calls and meetings keep this place going. Downstairs is for laborers, workers: loud, dark, dirty. You can see and understand the activities with your eyes the way you might understand an engine - not easy, but doable with the right effort. I'm both drawn to and repulsed by the upstairs. It strikes me as unequal - higher pay with less elemental struggle, less muscular output. I also know enough about my biases to cut past this idea that things that look like struggle are worth the most. The mystery is appealing despite - no, because - it's not clear I could ever understand it. Downstairs draws me because it's so different than anything I've ever seen. It's like exploring the rainforest. But I'm sure that if I spent enough time here I could learn all of it. 
+This is a place of unstated divisions. There's a major fault line separating above from below. I'll explain it here but it's so fundamental to the place that it's like middle-school cliques. Upstairs is for executives and their secretaries. My family - except for my father. It's the place for paper, computers and invisible magic - you need to apply your mind to understand it. Somehow the activites up here - paper shuffling, calls and meetings keep this place going. Downstairs is for laborers, workers: loud, dark, dirty. You can see and understand the activities with your eyes the way you might understand an engine - not easy, but doable with the right effort. I'm both drawn to and repulsed by the upstairs. It strikes me as unequal - higher pay with less elemental struggle, less muscular output. I also know enough about my biases to cut past this idea that things that look like struggle are worth the most. The mystery is appealing despite - no, because - it's not clear I could ever understand it. Downstairs draws me because it's so different than anything I've ever seen. It's like exploring the rainforest. But I'm sure that if I spent enough time here I could learn all of it. 
 
 If one inclined toward identifications - like a butterfly collector - the fastest way to classify the species here would be through examining the hands: [callouses, palm lines/finger prints etched with dark stains: downstairs], [clean palms: upstairs].
 
@@ -87,10 +86,10 @@ We move....
 
 “So what do you like to do kid?”, he asked. I looked up.
 “Not sure. I kind of like working with my hands.” I said.
-“Nah”, he cut in, “you got better things coming, kid. You don’t want to be like me, or these guys. Look at us”. He had a point. But I was fixated on fitting in and felt like admitting that I really wanted to do science would out me as different. I’d never be able to bridge the gap. Engineering seemed like a good middle-ground for us to connect on.
+“Nah”, he cut in, “you got better things coming, kid. You don’t want to be like me, or these guys. Look at us”. He had a point. But I fixated on fitting in and felt like admitting that I wanted to do science would out me as different. Too high-falutent. I’d never be able to bridge the gap. Engineering seemed like a good middle-ground for connection.
 “I mean that I like to build things” I said.
-“That’s good, kid”.....
+“That’s good, kid” he said.
 
-
-The cursor blinks on the terminal. 
-A knock. "Yes, come in", I say. It's Jean, my assistant. "Ari, your 2:00 is here".
+A knock. The cursor blinks on the terminal. I sit back up. 
+"Yes, come in", I say. It's Jean, my assistant. 
+"Ari, your 2:00 is here"....
