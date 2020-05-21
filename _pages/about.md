@@ -1,14 +1,14 @@
 ---
 id: 18
 title: About
-date: 2018-07-22T15:43:01+00:00
+# date: 2018-07-22T15:43:01+00:00
 author: ariakerstein
 type: pages
 author_profile: false
 permalink: /about/
 path: /_pages/about
 layout: single
-guid: http://www.chemolog.com/?page_id=18
+# guid: http://www.chemolog.com/?page_id=18
 ---
 
 I use this space to share updates on Product management practice, meditations, observations & principles. Last year I battled a blood cancer cancer. You can read about that at that on <a href="http://www.chemolog.com/">Chemolog</a>.
