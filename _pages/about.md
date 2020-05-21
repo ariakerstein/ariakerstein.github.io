@@ -1,6 +1,5 @@
 ---
 title: About
-# date: 2018-07-22T15:43:01+00:00
 author: ariakerstein
 type: pages
 author_profile: true
