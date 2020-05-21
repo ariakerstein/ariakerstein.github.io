@@ -63,7 +63,7 @@ Questions I knock around as I walked:
  
 The first order of business today is for my father to confer with the foreman to decide where I’ll be working for the next 6 hours. I have no say but that doesn't matter. My small body fills with a giddy excitement as I wait - a new day, a new world to explore.  
 
-Each room in this factory is a different in the same way as sampling a rod of cold-rolled steel under high powered magnification would present different atomic structures. It would not be obvious that all were part of the same entity: would the room have posters on the wall with bakini-clad females behind a tool chest (they allow this?)? Would there be a radio playing modern rock, oldies? Would there be banter between the guys, or silence? Would there be a window?
+Each room in this factory is a different in the same way as sampling a rod of cold-rolled steel under high powered magnification would present different atomic structures. It would not be obvious that all belonged to the same entity: would the room have posters on the wall with bakini-clad females behind a tool chest (they allow this?)? Would there be a radio playing modern rock, oldies? Would there be banter between the guys, or silence? Would there be a window?
 
 There's one quiet place here, it's on the third floor. The assembly tables where (almost without exception) the women would work. The work was delicate, detail-oriented and did not require strength. They would wrap small plastic pieces in copper wire attached to heavy square racks. Once all slots filled, the women would signal completion to a (without exception) large man and hand the racks over. He would place it onto industrial-grade dolly and when that filled he would roll it across the metallic floors (aha! The metal flooring helps these cages roll!) to take the pieces to ovens for baking.
 
@@ -71,7 +71,7 @@ You might think these are all factory workers, all the same kind of person. That
 
 For example, a machining room would value precision and process. A paint assembly line room would value efficiency of motion to reduce latency and optimize throughput. Then there are the immersion baths that sat on large areas of palates arranged in circular patterns. Large muscular black men dominate this area. They lift large racks of metal and dunk them, assisted by some crane-like machines, into baths filled with colored solutions. There it seems raw strength was most important. One day I walked through this area with my father and nearly pass out smelling the solvents. Spending a day with such toxic stuff cannot be good for the body. 
 
-I look down at the palettes as I walk. I look down and notice solvent drips sinking into the unfinished wood and think about how my grandfather saw what others missed. 
+I look down at the palettes as I walk and notice solvent drips sinking into the unfinished wood. I think about how my grandfather saw what others missed in order to build this place. 
 
 My favorite story is the time he went to a competitor's foreclosure. This is a tough business and few companies survive. They were liquidating the machines and equipment. He passed over all the heavy stuff, wanting only the wooden throwaway palettes. They were not selling them but if he wanted to haul them off well go right ahead. One less thing to clear out they figured. Knowing more about their business then they did, apparently, he distilled out the gold drippings. He made a mini fortune from that insight. Magic.
 
