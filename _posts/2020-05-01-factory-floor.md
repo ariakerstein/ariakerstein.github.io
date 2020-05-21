@@ -86,7 +86,7 @@ The lightning stops. I unseal my palms from my ears. Still silent. Safe. I look 
 
 “So what do you like to do kid?”, he asked. I looked up.
 “Not sure. I kind of like working with my hands.” I said.
-“Nah”, he cut in, “you got better things coming, kid. You don’t want to be like me, or these guys. Look at us”. I cringed inside, pegged as 'other'. But he had a point. Damage control - I wasn't ready to admit that I wanted to do science - that would just confirm how different I was. No, too high-falutent. I’d never bridge the gap. Engineering seemed like a good middle-ground for connection.
+“Nah”, he cut in, “you got better things coming, kid. You don’t want to be like me, or these guys. Look at us”. I cringed inside, pegged as 'other'. But he had a point. Damage control - I wasn't ready to admit that I wanted to do science - that would just confirm how different I was. No way, too high-falutent. I’d never bridge the gap. Engineering seemed like a good middle-ground for connection.
 “I mean that I like to build things” I said.
 “That’s good, kid” he said.
  

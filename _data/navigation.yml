@@ -56,8 +56,8 @@ sidebar-sample:
       - title: "Child Page D2"
         url: /
 main:
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   - title: "Chemolog"
     url: /chemolog
   
