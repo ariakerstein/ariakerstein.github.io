@@ -13,7 +13,7 @@ The cursor pulses hot green against the black terminal. A few quick taps execute
 
 I stop and lean back in the creaky lab chair. I interlace my fingers behind my skull, sigh deeply and consider the ceiling..... 
 
-We travel by Buick leaving suburban safety behind. The car pulled into the reserved spot, <i>“For management only”</i?>, it read. My father and I step out and walk toward the building. I’m 12 years old and going to work.
+We travel by Buick leaving suburban safety behind. The car pulled into the reserved spot, <i>“For management only”</i>, it read. My father and I step out and walk toward the building. I’m 12 years old and going to work.
 
 It takes 40 seconds to walk from car seat to factory entrance. In that time my brain floods with feelings, ideas and a hell of a lot of confusion. I look up as I walk. The single-story white facade masks the hum of activity happening in the subterranean city-block - tip of an iceberg.  
 
@@ -43,7 +43,7 @@ A dark wooden door leads to the narrow stairwell downstairs, the kind you might 
 
 I take a large step through the panels and leave the familiar. I bounce atop a steel sheet. The heavy metal squares that make up the floor here, about 6 feet to a side and bowed with tension. Each one is sealed to its neighbor with crude tack-welds that resemble scarred skin that raises a bit. I wondered what I would see if I slipped through the visible unfilled cracks between them. With each step I bounce, playing with new powers - not quite the moon since gravity is the same - but fun. Extra energy transfers from the springy slabs through my hard-soled boots, through my body, propelling me along my y-axis. Industrial bouncing. Absently I file this one away for a good example use of the term "oxymoron". 
 
-The vapor solvents overwhelm me for the first few minutes. Hot paint fumes mixed with other harsh industrial chemicals, degreasers and masculine morning routines - aftershave. And the noise disorients me for a moment, until I adjust. Loud beeps break the persistent hum of heavy machines. Humans shout mundane orders to each other over the background noise. Tinny, high-pitched intercom vibrations cut through everything and bounce off the metallic surfaces. <i>“Manny 62346, Manny 62346”. Click! </i>
+The vapor solvents overwhelm me for the first few minutes. Hot paint fumes mixed with other harsh industrial chemicals, degreasers and masculine morning routines - aftershave, hairgel. And the noise disorients me for a moment, until I adjust. Loud beeps break the persistent hum of heavy machines. Humans shout mundane orders to each other over the background noise. Tinny, high-pitched intercom vibrations cut through everything and bounce off the metallic surfaces. <i>“Manny 62346, Manny 62346”. Click! </i>
 
 Phones were strategically placed around the factory, physical addresses describing the maze. The message was a catenation of location + person. If someone called your name you would walk over to that phone’s location. Someone needed help there. The most frequently called name was ‘Moti’, my father. That was a source of pride. He knew every bit of machinery. In fact, he had built or conceived most of them. I figured if I wanted to quantify respect it would be in the frequency of names called over the intercom. 
 
@@ -81,7 +81,7 @@ The lightning stops. I unseal my palms from my ears. Still silent. Safe. I look 
 
 “So what do you like to do kid?”, he asked. I looked up.
 “Not sure. I kind of like working with my hands.” I said.
-“Nah”, he cut in, “you got better things coming, kid. You don’t want to be like me, or these guys. Look at us”. He had a point. But I fixated on fitting in and felt like admitting that I wanted to do science would out me as different. Too high-falutent. I’d never be able to bridge the gap. Engineering seemed like a good middle-ground for connection.
+“Nah”, he cut in, “you got better things coming, kid. You don’t want to be like me, or these guys. Look at us”. I cringed inside, pegged as 'other'. But he had a point. Damage control - I wasn't ready to admit that I wanted to do science - that would just confirm how different I was. No, too high-falutent. I’d never bridge the gap. Engineering seemed like a good middle-ground for connection.
 “I mean that I like to build things” I said.
 “That’s good, kid” he said.
  
@@ -89,4 +89,4 @@ A loud knock. The cursor still blinks on the terminal. I sit back up.
 "Come in", I shout, not bothering to turn around. It's Jean, my assistant. 
 
 [stub ]
-"double A, your 2:00 is here"....
+
