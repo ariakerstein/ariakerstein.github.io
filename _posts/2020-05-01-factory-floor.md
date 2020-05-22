@@ -99,5 +99,3 @@ A loud knock. The cursor still blinks on the terminal. I sit back up.
 
 "Your 2:00 is here", she says. "Please reschedule it", I say. 
 I grab my phone, slip on my running shoes under my desk. And I start running...down the hall...into the world. I don't have a route or a plan. Instead do a fartlek zigzag through city blocks. I go back when I get tired. 
-[stub ]
-
