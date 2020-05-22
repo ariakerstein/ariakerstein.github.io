@@ -1,6 +1,6 @@
 # url: http://www.samuelakerstein.com
-name: 'Night Writings'
-description: Ari Akerstein | Writings
+name: 'Night Prose'
+description: Ari Akerstein | Night Prose
 
 # Welcome to Jekyll!
 #
@@ -20,10 +20,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Night Writings"
+title                    : "Night Prose"
 title_separator          : "-"
-name                     : "Night Writings"
-description              : "Ari Akerstein | Fiction"
+name                     : "Night Prose"
+description              : "Ari Akerstein | Night Prose"
 # url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Ari Akerstein"
   avatar           : "/assets/images/ari_headshot.jpg" # path of avatar image, e.g. "/assets/images/chemopic.jpg"
-  bio              : "Observer of fictions"
+  bio              : "I see your fictions"
   location         : "San Francisco"
   email            : "ariakerstein@gmail.com"
   links:
