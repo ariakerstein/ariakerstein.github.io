@@ -95,7 +95,6 @@ The lightning stops. I unseal my palms from my ears. Still silent. Safe. I look 
 “That’s good, kid” he said.
  
 A loud knock. The cursor still blinks on the terminal. I sit back up. 
-"Come in", I shout, not bothering to turn around. It's Jean, my assistant. 
+"Come in", I shout, not bothering to turn around. It's Jean, my assistant. "Your 2:00 is here", she says. "Please reschedule it", I say. 
 
-"Your 2:00 is here", she says. "Please reschedule it", I say. 
-I grab my phone, slip on my running shoes under my desk. And I start running...down the hall...into the world. I don't have a route or a plan. Instead do a fartlek zigzag through city blocks. I go back when I get tired. 
+I grab my phone, slip on the running shoes that live under my desk. And I start running...down the hall...into the world. I have no route, no plan. I run, a bumping pixel diffusing through city blocks. When I get tired I go directly back to the lab. 
