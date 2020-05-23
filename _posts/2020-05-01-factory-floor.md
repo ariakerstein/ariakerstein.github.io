@@ -97,4 +97,4 @@ The lightning stops. I unseal my palms from my ears. Still silent. Safe. I look 
 A loud knock. The cursor still blinks on the terminal. I sit back up. 
 "Come in", I shout, not bothering to turn around. It's Jean, my assistant. "Your 2:00 is here", she says. "Please reschedule it", I say. 
 
-I grab my phone, slip on the running shoes that live under my desk. And I start running...down the hall...into the world. I have no route, no plan. I run, a bumping pixel diffusing through city blocks. When I get tired I go directly back to the lab. 
+I grab my phone, slip on the running shoes that live under my desk. And I start running...down the hall...into the world. I have no route, no plan. I run, a bumping pixel diffusing through city blocks. For a time I forget. No me, no others, no work, no caring. I get lost in a pleasant neutrality. Movement is my master. When I get tired I remember. I run faster back to the lab. 
