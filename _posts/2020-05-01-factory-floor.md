@@ -11,7 +11,7 @@ categories: [Fiction, Youth, Tensions]
 
 The cursor pulses hot green against the black terminal. A few quick taps execute the script. I watch the simulation unfold on the screen. Then, a stocatto barrage of keystrokes: <i>Simulation number 39...no change from 38...The pX protein displays kinetics suggesting diffusion as the primary mechanic of nucleus traversal. In the presence of DNA breaks the molecular kinetics change and the molecule activates a cascade catalyzing repair complex formation.....</i>
 
-I stop and lean back in the creaky lab chair. I interlace my fingers interlace behind my skull, sigh deeply and consider the ceiling..... 
+I stop and lean back in the creaky lab chair. I interlace my fingers behind my skull, sigh deeply and consider the ceiling..... 
 
 We travel by Buick leaving suburban safety behind. The car pulls into the reserved spot, <i>“For management only”</i>, it reads. My father and I step out and walk toward the building. I’m 12 years old and going to work.
 
@@ -56,14 +56,14 @@ Phones are strategically placed around the factory, physical addresses describin
 
 If my personal feeling structure were to form a pyramid then that pride for the work my family did would be at the apex. In the middle is awkwardness around my identity in this context. How do I fit in here? These men were struggling for survival and I was here out of, what, curiosity? Then, at the base, supporting the whole structure is awe. Awe fills me and fuels my efforts here. It keeps me waking up at 5:05 every day in the summer jumping out of bed. At least 3 times per hour I consider how could a person conceive, let alone build something so strange, complicated - and yes – strangely wonderful? I love bouncing when I walk! 
 
-Questions I knock around as I walked:
--   Environment: where did so much steel come from? How did it get here?
--   Machines: There were so many. What did they all do? How did they work?
--   Operations: there was a potent mix of seeming chaos, but there was obvious logic around how all this was coordinated. But I just couldn’t grasp what it was.
--   Jobs: what jobs were required? What exactly did everyone do? Which mattered the most? Who got the most respect?  
--   People: who were these people I was working alongside? Why were they here? Did they enjoy this work?
--   Customers: who was buying this stuff anyway? How did they find the factory?
--   Numbers: so many pieces of plastic everywhere! Each piece needed to be handled, molecules of paint affixed to them with minimal waste. How are they all kept orderly? 
+Questions I knock around as I walk:
+- Environment: where does so much steel come from? How did it get here?
+- Machines: What do they all do and how do they work?
+- Operations: Is this more chaos or concert? I don't grasp the system underneath this place.
+- Jobs: what jobs are required? What exactly does everyone do? Which are the most important?
+- People: how much of the motivation is that people love what they do versus feeding their families?
+- Customers: who is buying this stuff? How did they find the factory?
+- Numbers: so many pieces of plastic everywhere! Each piece must be handled, molecules of paint affix to them with minimal waste. How are they all kept orderly? Where's the raw material coming from - for the paint the plastic .....? 
  
 The first order of business today is for my father to confer with the foreman to decide where I’ll be working for the next 6 hours. I have no say but that doesn't matter. My small body fills with a giddy excitement as I wait - a new day, a new world to explore.  
 
@@ -97,4 +97,4 @@ The lightning stops. I unseal my palms from my ears. Still silent. Safe. I look 
 A loud knock. The cursor still blinks on the terminal. I sit back up. 
 "Come in", I shout, not bothering to turn around. It's Jean, my assistant. "Your 2:00 is here", she says. "Please reschedule it", I say. 
 
-I grab my phone, slip on the running shoes that live under my desk. And I start running...down the hall...into the world. I have no route, no plan. I run, a bumping pixel diffusing through city blocks. For a time I forget. No me, no others, no work, no caring. I get lost in a pleasant neutrality. Movement is my master. I get tired and stop. Then I remember and sprint back to the lab. 
+I grab my phone, slip on the running shoes that live under my desk. And I jog...down the hall...into the world... no route, no plan. Satellite imagery would reveal a bumping pixel diffusing through city blocks. For a time I forget. No me, no others, no work, no caring. I get lost in a pleasant neutrality. Movement is my master. I get tired and stop. Then I remember and sprint back to the lab. 
