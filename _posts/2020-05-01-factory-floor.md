@@ -11,7 +11,7 @@ categories: [Fiction, Youth, Tensions]
 
 The cursor pulses hot green against the black terminal. A few quick taps execute the script. I watch the simulation unfold on the screen. Then, a stocatto barrage of keystrokes: <i>Simulation number 39...no change from 38...The pX protein displays kinetics suggesting diffusion as the primary mechanic of nucleus traversal. In the presence of DNA breaks the molecular kinetics change and the molecule activates a cascade catalyzing repair complex formation.....</i>
 
-I stop and lean back in the creaky lab chair. I blow on my palms and notice the lines - clean grooves glistening with sweat. I interlace my fingers behind my skull, sigh deeply and consider the ceiling..... 
+I stop and lean back in the creaky lab chair. I interlace my fingers behind my skull, sigh deeply and consider the ceiling..... 
 
 We travel by Buick leaving suburban safety behind. The car pulls into the reserved spot, <i>“For management only”</i>, it reads. My father and I step out and walk toward the building. I’m 12 years old and going to work.
 
@@ -85,4 +85,4 @@ The lightning stops. I unseal my palms from my ears. Still silent. Safe. I look 
 A loud knock. The cursor still blinks on the terminal. I sit back up. 
 "Come in", I shout, not bothering to turn around. It's Jean, my assistant. "Your 2:00 is here", she says. "Please reschedule it", I say. 
 
-I grab my phone, slip on the running shoes that live under my desk. And I jog...down the hall...into the world... no route, no plan. Satellite imagery would reveal a bumping pixel diffusing through city blocks. For a time I forget. No me, no others, no work, no caring. I get lost in a pleasant neutrality. Movement is my master. I get tired and stop. Then I remember and sprint back to the lab. 
+I grab my phone, slip on the running shoes that live under my desk. And I jog...down the hall...into the world... no route, no plan. Satellite imagery would reveal a bumping pixel diffusing through city blocks. For a time I forget. No me, no others, no work, no caring. I get lost in a pleasant neutrality. Movement is my master. I get tired and stop, stretching a moment. I notice my palms, sweaty but clean. Then I remember and sprint back to the lab. 
