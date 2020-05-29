@@ -58,8 +58,8 @@ sidebar-sample:
 main:
   # - title: "About"
   #   url: /about/
-  - title: "Chemolog"
-    url: /chemolog
+  # - title: "Chemolog"
+  #   url: /chemolog
   
   # - title: "Bookshelf"
   #   url: /bookshelf/
